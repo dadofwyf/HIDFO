@@ -1,4 +1,5 @@
 Inductor and Transformer MDN Models
+The models are stored in the branches named ind and trf, respectively.
 
 Models: IND1, IND2, IND5; TRF1, TRF2, TRF3, TRF5, TRF7.
 Purpose: predict candidate geometries from the corresponding response representation.
